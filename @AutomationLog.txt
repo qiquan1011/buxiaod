@@ -1,0 +1,3 @@
+2021-09-15 15:14:45.052 demo.py[35] get_connect -> Find Control Timeout: {ClassName: 'WindowsForms10.EDIT.app.0.1983833_r6_ad1', ControlType: EditControl}
+2021-09-15 15:17:08.473 demo.py[35] get_connect -> Find Control Timeout: {ClassName: 'WindowsForms10.EDIT.app.0.1983833_r6_ad1', ControlType: EditControl}
+2021-09-15 15:18:55.057 demo.py[35] get_connect -> Find Control Timeout: {ClassName: 'WindowsForms10.Window.b.app.0.1983833_r6_ad1', ControlType: EditControl}
